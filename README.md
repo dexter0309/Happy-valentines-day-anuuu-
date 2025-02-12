@@ -95,7 +95,7 @@
       const username = document.getElementById("username").value.toLowerCase();
       const password = document.getElementById("password").value.toLowerCase();
       
-      if (username === "Im yours" && password === "Forever") {
+      if (username === "im yours" && password === "forever") {
         document.querySelector("h1").style.display = "none";
         document.querySelectorAll("input, button").forEach(el => el.style.display = "none");
         document.getElementById("message").style.display = "block";
