@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -89,6 +88,7 @@
       <p>I don’t just want you to be my Valentine this year. I want you to be my Valentine every single year, for the rest of our lives. 💍🥰 I wanna be the one who makes you laugh when you’re sad 😘, who hypes you up when you doubt yourself 💪, and who stays by your side no matter what. I see a whole future with you, and I swear, I’ll do whatever it takes to make that happen. 💖✨</p>
       <p>So, Ya Batatsss, will you be my Valentine? Not just for today, not just for this year—but forever? 💌🥰💖</p>
       <p>Always yours, <br> Aduuuu ❤️</p>
+      <button onclick="window.location.href='reply.html'">Next</button> <!-- Next Button -->
     </div>
   </div>
   <audio id="bgMusic" loop>
